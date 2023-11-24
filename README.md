@@ -2,7 +2,7 @@
 ## Mini Project 4 In C 
 
 > [!IMPORTANT]
-> - System Requirements:
+> - System Requirements
 > - Implement the following system to measure the distance using ultrasonic sensor HC-SR04 with the specifications listed below:
 
 
