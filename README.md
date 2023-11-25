@@ -22,7 +22,7 @@ model as follow:**
 <img width="458" alt="image" src="https://github.com/NouranAhmedk/MeasuringDistanceWithUltrasonic/assets/105202599/0b54822d-b3ea-42d7-955f-9bfcc5a1822a">
 
 **GPIO Driver Requirements**
-> - 1. Use the Same GPIO driver implemented in the course.
+> 1. Use the Same GPIO driver implemented in the course.
 
 **ICU Driver Requirements**
 > 1. Use the Same ICU driver implemented in the course.
@@ -33,10 +33,12 @@ model as follow:**
 > 1. Use 4x16 LCD.
 > 2. Use the Same LCD driver implemented in the course with 8-bits data mode.
 > 3. Connect the LCD control pins and 8-bits data pins as follow:
-> • RS → PB0
-> • RW → Ground
-> • E → PB1
-> • Data Bus → all PORTA pins.
+>  ```
+>    RS → PB0
+>    RW → Ground
+>    E → PB1
+>    Data Bus → all PORTA pins.
+>  ```
 
 **Ultrasonic Driver Requirements**
 > 1. Implement a full ultrasonic Driver using ATmega32 ICU driver.
