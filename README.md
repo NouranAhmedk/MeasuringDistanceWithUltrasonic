@@ -6,13 +6,21 @@
 > - Implement the following system to measure the distance using ultrasonic sensor HC-SR04 with the specifications listed below:
 
 
-1. Use ATmega32 Microcontroller with frequency 8Mhz.
-2. Measure the distance using the Ultrasonic sensor HC-SR04. Check the “HC-SR04 
-Ultrasonic MT Student Tutorial” pdf file to understand how to interface with this 
-sensor.
-3. The LCD should display the distance value like that:
-4. The project should be design and implemented based on the layered architecture 
-model as follow:
+**1. Use ATmega32 Microcontroller with *frequency 8Mhz.***
+
+**2. Measure the distance using the Ultrasonic sensor HC-SR04. Check the *“HC-SR04 
+Ultrasonic MT Student Tutorial”* pdf file to understand how to interface with this 
+sensor.**
+
+**3. The LCD should display the distance value like that:**
+
+<img width="386" alt="image" src="https://github.com/NouranAhmedk/MeasuringDistanceWithUltrasonic/assets/105202599/f0eb0531-4f4b-4012-a971-b55d56d3cae8">
+
+**4. The project should be design and implemented based on the layered architecture 
+model as follow:**
+
+<img width="458" alt="image" src="https://github.com/NouranAhmedk/MeasuringDistanceWithUltrasonic/assets/105202599/0b54822d-b3ea-42d7-955f-9bfcc5a1822a">
+
 GPIO Driver Requirements
 1. Use the Same GPIO driver implemented in the course.
 ICU Driver Requirements
